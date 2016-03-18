@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Agri Sens</string>
+    <string name="action_settings">Settings</string>
+
+        <string name="choix">Choisir la culture</string>
+
+        <string-array name="Culture">
+            <item>Pomme de terre</item>
+            <item>Artichaud</item>
+            <item>Tomate</item>
+            <item>Lentille</item>
+            <item>Culture</item>
+        </string-array>
+
+</resources>
